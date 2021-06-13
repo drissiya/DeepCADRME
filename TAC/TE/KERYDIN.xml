@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label>
+	<Section name="adverse reactions">
+		<sentence start="0" len="23"/>
+		<sentence start="24" len="24"/>
+		<sentence start="25" len="229"/>
+		<sentence start="230" len="239"/>
+		<sentence start="240" len="240"/>
+		<sentence start="241" len="241"/>
+		<sentence start="242" len="242"/>
+		<sentence start="243" len="408"/>
+		<sentence start="409" len="409"/>
+		<sentence start="410" len="410"/>
+		<sentence start="411" len="411"/>
+		<sentence start="412" len="413"/>
+		<sentence start="414" len="414"/>
+		<sentence start="415" len="447"/>
+		<sentence start="448" len="448"/>
+		<sentence start="449" len="714"/>
+		<sentence start="715" len="715"/>
+		<sentence start="716" len="716"/>
+		<sentence start="717" len="717"/>
+		<sentence start="718" len="782"/>
+		<sentence start="783" len="859"/>
+		<sentence start="860" len="860"/>
+		<sentence start="861" len="861"/>
+		<sentence start="862" len="862"/>
+		<sentence start="863" len="1012"/>
+		<sentence start="1013" len="1123"/>
+		<sentence start="1124" len="1230"/>
+		<sentence start="1231" len="1337"/>
+		<sentence start="1338" len="1444"/>
+		<sentence start="1445" len="1551"/>
+		<sentence start="1552" len="1650"/>
+		<sentence start="1651" len="1715"/>
+	</Section>
+
+</Label>

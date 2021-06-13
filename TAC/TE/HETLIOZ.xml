@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label>
+	<Section name="adverse reactions">
+		<sentence start="0" len="6"/>
+		<sentence start="7" len="24"/>
+		<sentence start="25" len="25"/>
+		<sentence start="26" len="282"/>
+		<sentence start="283" len="283"/>
+		<sentence start="284" len="284"/>
+		<sentence start="285" len="285"/>
+		<sentence start="286" len="452"/>
+		<sentence start="453" len="453"/>
+		<sentence start="454" len="454"/>
+		<sentence start="455" len="455"/>
+		<sentence start="456" len="457"/>
+		<sentence start="458" len="458"/>
+		<sentence start="459" len="491"/>
+		<sentence start="492" len="492"/>
+		<sentence start="493" len="767"/>
+		<sentence start="768" len="768"/>
+		<sentence start="769" len="769"/>
+		<sentence start="770" len="770"/>
+		<sentence start="771" len="919"/>
+		<sentence start="920" len="920"/>
+		<sentence start="921" len="921"/>
+		<sentence start="922" len="922"/>
+		<sentence start="923" len="1059"/>
+		<sentence start="1060" len="1224"/>
+		<sentence start="1225" len="1225"/>
+		<sentence start="1226" len="1226"/>
+		<sentence start="1227" len="1227"/>
+		<sentence start="1228" len="1392"/>
+		<sentence start="1393" len="1393"/>
+		<sentence start="1394" len="1394"/>
+		<sentence start="1395" len="1395"/>
+		<sentence start="1396" len="1462"/>
+		<sentence start="1463" len="1463"/>
+		<sentence start="1464" len="1464"/>
+		<sentence start="1465" len="1465"/>
+		<sentence start="1466" len="1466"/>
+		<sentence start="1467" len="1583"/>
+		<sentence start="1584" len="1586"/>
+		<sentence start="1587" len="1639"/>
+		<sentence start="1640" len="1748"/>
+		<sentence start="1749" len="1857"/>
+		<sentence start="1858" len="1966"/>
+		<sentence start="1967" len="2075"/>
+		<sentence start="2076" len="2184"/>
+		<sentence start="2185" len="2293"/>
+	</Section>
+
+	<Section name="warnings and precautions">
+		<sentence start="0" len="6"/>
+		<sentence start="7" len="31"/>
+		<sentence start="32" len="32"/>
+		<sentence start="33" len="33"/>
+		<sentence start="34" len="34"/>
+		<sentence start="35" len="262"/>
+		<sentence start="263" len="263"/>
+		<sentence start="264" len="264"/>
+		<sentence start="265" len="265"/>
+		<sentence start="266" len="267"/>
+		<sentence start="268" len="268"/>
+		<sentence start="269" len="269"/>
+		<sentence start="270" len="270"/>
+		<sentence start="271" len="288"/>
+		<sentence start="289" len="289"/>
+		<sentence start="290" len="290"/>
+		<sentence start="291" len="291"/>
+		<sentence start="292" len="383"/>
+		<sentence start="384" len="481"/>
+	</Section>
+
+</Label>

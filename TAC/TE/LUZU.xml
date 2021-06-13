@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label>
+	<Section name="adverse reactions">
+		<sentence start="0" len="23"/>
+		<sentence start="24" len="24"/>
+		<sentence start="25" len="176"/>
+		<sentence start="177" len="187"/>
+		<sentence start="188" len="188"/>
+		<sentence start="189" len="189"/>
+		<sentence start="190" len="190"/>
+		<sentence start="191" len="352"/>
+		<sentence start="353" len="353"/>
+		<sentence start="354" len="354"/>
+		<sentence start="355" len="355"/>
+		<sentence start="356" len="357"/>
+		<sentence start="358" len="358"/>
+		<sentence start="359" len="391"/>
+		<sentence start="392" len="392"/>
+		<sentence start="393" len="659"/>
+		<sentence start="660" len="660"/>
+		<sentence start="661" len="661"/>
+		<sentence start="662" len="662"/>
+		<sentence start="663" len="812"/>
+		<sentence start="813" len="987"/>
+		<sentence start="988" len="1175"/>
+		<sentence start="1176" len="1221"/>
+		<sentence start="1222" len="1222"/>
+		<sentence start="1223" len="1223"/>
+		<sentence start="1224" len="1224"/>
+		<sentence start="1225" len="1257"/>
+		<sentence start="1258" len="1258"/>
+		<sentence start="1259" len="1400"/>
+		<sentence start="1401" len="1602"/>
+	</Section>
+
+</Label>
