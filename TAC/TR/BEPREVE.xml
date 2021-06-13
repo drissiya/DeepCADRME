@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label>
+	<Section name="adverse reactions">
+		<sentence start="0" len="23"/>
+		<sentence start="24" len="24"/>
+		<sentence start="25" len="155"/>
+		<sentence start="156" len="266"/>
+		<sentence start="267" len="274"/>
+		<sentence start="275" len="275"/>
+		<sentence start="276" len="276"/>
+		<sentence start="277" len="277"/>
+		<sentence start="278" len="430"/>
+		<sentence start="431" len="431"/>
+		<sentence start="432" len="432"/>
+		<sentence start="433" len="433"/>
+		<sentence start="434" len="435"/>
+		<sentence start="436" len="436"/>
+		<sentence start="437" len="469"/>
+		<sentence start="470" len="470"/>
+		<sentence start="471" len="745"/>
+		<sentence start="746" len="746"/>
+		<sentence start="747" len="747"/>
+		<sentence start="748" len="748"/>
+		<sentence start="749" len="875"/>
+		<sentence start="876" len="981"/>
+		<sentence start="982" len="982"/>
+		<sentence start="983" len="983"/>
+		<sentence start="984" len="984"/>
+		<sentence start="985" len="1017"/>
+		<sentence start="1018" len="1018"/>
+		<sentence start="1019" len="1115"/>
+		<sentence start="1116" len="1315"/>
+		<sentence start="1316" len="1418"/>
+	</Section>
+
+	<Section name="warnings and precautions">
+		<sentence start="0" len="30"/>
+		<sentence start="31" len="31"/>
+		<sentence start="32" len="32"/>
+		<sentence start="33" len="33"/>
+		<sentence start="34" len="133"/>
+		<sentence start="134" len="177"/>
+		<sentence start="178" len="188"/>
+		<sentence start="189" len="263"/>
+		<sentence start="264" len="274"/>
+		<sentence start="275" len="336"/>
+		<sentence start="337" len="347"/>
+		<sentence start="348" len="352"/>
+		<sentence start="353" len="354"/>
+		<sentence start="355" len="355"/>
+		<sentence start="356" len="396"/>
+		<sentence start="397" len="397"/>
+		<sentence start="398" len="398"/>
+		<sentence start="399" len="399"/>
+		<sentence start="400" len="560"/>
+		<sentence start="561" len="604"/>
+		<sentence start="605" len="605"/>
+		<sentence start="606" len="606"/>
+		<sentence start="607" len="607"/>
+		<sentence start="608" len="632"/>
+		<sentence start="633" len="633"/>
+		<sentence start="634" len="634"/>
+		<sentence start="635" len="635"/>
+		<sentence start="636" len="712"/>
+		<sentence start="713" len="781"/>
+		<sentence start="782" len="782"/>
+		<sentence start="783" len="783"/>
+		<sentence start="784" len="784"/>
+		<sentence start="785" len="847"/>
+		<sentence start="848" len="903"/>
+		<sentence start="904" len="995"/>
+		<sentence start="996" len="1074"/>
+		<sentence start="1075" len="1075"/>
+		<sentence start="1076" len="1076"/>
+		<sentence start="1077" len="1077"/>
+		<sentence start="1078" len="1113"/>
+		<sentence start="1114" len="1114"/>
+		<sentence start="1115" len="1115"/>
+		<sentence start="1116" len="1116"/>
+		<sentence start="1117" len="1162"/>
+	</Section>
+
+</Label>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Label>
+	<Section name="adverse reactions">
+		<sentence start="0" len="23"/>
+		<sentence start="24" len="24"/>
+		<sentence start="25" len="136"/>
+		<sentence start="137" len="281"/>
+		<sentence start="282" len="291"/>
+		<sentence start="292" len="292"/>
+		<sentence start="293" len="293"/>
+		<sentence start="294" len="294"/>
+		<sentence start="295" len="428"/>
+		<sentence start="429" len="429"/>
+		<sentence start="430" len="430"/>
+		<sentence start="431" len="431"/>
+		<sentence start="432" len="433"/>
+		<sentence start="434" len="434"/>
+		<sentence start="435" len="466"/>
+		<sentence start="467" len="467"/>
+		<sentence start="468" len="596"/>
+		<sentence start="597" len="652"/>
+		<sentence start="653" len="917"/>
+		<sentence start="918" len="981"/>
+		<sentence start="982" len="1126"/>
+		<sentence start="1127" len="1177"/>
+		<sentence start="1178" len="1178"/>
+		<sentence start="1179" len="1179"/>
+		<sentence start="1180" len="1180"/>
+		<sentence start="1181" len="1212"/>
+		<sentence start="1213" len="1213"/>
+		<sentence start="1214" len="1425"/>
+		<sentence start="1426" len="1505"/>
+		<sentence start="1506" len="1600"/>
+		<sentence start="1601" len="1715"/>
+		<sentence start="1716" len="1759"/>
+	</Section>
+
+	<Section name="warnings and precautions">
+		<sentence start="0" len="30"/>
+		<sentence start="31" len="31"/>
+		<sentence start="32" len="32"/>
+		<sentence start="33" len="33"/>
+		<sentence start="34" len="131"/>
+		<sentence start="132" len="232"/>
+		<sentence start="233" len="243"/>
+		<sentence start="244" len="314"/>
+		<sentence start="315" len="325"/>
+		<sentence start="326" len="330"/>
+		<sentence start="331" len="332"/>
+		<sentence start="333" len="333"/>
+		<sentence start="334" len="367"/>
+		<sentence start="368" len="368"/>
+		<sentence start="369" len="369"/>
+		<sentence start="370" len="370"/>
+		<sentence start="371" len="488"/>
+		<sentence start="489" len="668"/>
+		<sentence start="669" len="759"/>
+		<sentence start="760" len="1004"/>
+		<sentence start="1005" len="1206"/>
+		<sentence start="1207" len="1207"/>
+		<sentence start="1208" len="1208"/>
+		<sentence start="1209" len="1209"/>
+		<sentence start="1210" len="1238"/>
+		<sentence start="1239" len="1239"/>
+		<sentence start="1240" len="1240"/>
+		<sentence start="1241" len="1241"/>
+		<sentence start="1242" len="1315"/>
+		<sentence start="1316" len="1465"/>
+		<sentence start="1466" len="1581"/>
+		<sentence start="1582" len="1692"/>
+	</Section>
+
+</Label>
