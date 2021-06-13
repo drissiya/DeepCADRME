@@ -7,7 +7,7 @@ DeepCADRME is a deep neural model for extracting complex adverse drug reaction (
 ```
 $ bash pretrained_models/download.sh
 ```
-2. Install all dependencies automatically using the command:
+2. Install all dependencies needed to run this code using the command:
 ```
 $ pip install -r requirements.txt
 ```
