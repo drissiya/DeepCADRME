@@ -18,4 +18,48 @@ nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 ```
 
+## Quick start
+
+1. To train the DeepCADRME system, you can run the main.py file:
+```
+$ python main.py --model-type 'biobert' --step 'train'
+```
+- model-type: specifies the model type used for initialization phase. It accepts two values: biobert (for BERT-based models) and bilstm (for baseline models).
+- step: accepts two values: train (for training step) and test (for test step).
+
+After the program is finished, the model weights for each level will be saved in:
+```
+checkpoint/{model-type}_model_level_1.bin
+checkpoint/{model-type}_model_level_2.bin
+checkpoint/{model-type}_model_level_3.bin
+```
+
+2. To test the DeepCADRME system, just run the following command:
+```
+$ python main.py --model-type 'biobert' --step 'test'
+```
+After the program is finished, the guess xml files will be generated in the TAC/guess_xml folder.
+
+3. To evaluate DeepCADRME, run evaluate.py file which includes the official script for TAC 2017 ADR evaluation:
+```
+$ python evaluate.py 'TAC/gold_xml' 'TAC/guess_xml'
+```
+
+## Citation 
+
+```
+@article{El_allaly_2021,
+	doi = {10.1016/j.patrec.2020.12.013},
+	year = 2021,
+	month = {mar},
+	publisher = {Elsevier {BV}},
+	volume = {143},
+	pages = {27--35},
+	author = {Ed-drissiya El-allaly and Mourad Sarrouti and Noureddine En-Nahnahi and Said Ouatik El Alaoui},
+	title = {{DeepCADRME}: A deep neural model for complex adverse drug reaction mentions extraction},
+	journal = {Pattern Recognition Letters}
+}
+```
+
+
 
