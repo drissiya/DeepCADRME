@@ -1,1 +1,1 @@
-Put the train xml files here.
+Put the gold xml files here.
