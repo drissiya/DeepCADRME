@@ -3,7 +3,7 @@ DeepCADRME is a deep neural model for extracting complex adverse drug reaction (
 
 ## Datasets
 
-The datasets used in the experiments are provided from the TAC 2017 ADR challenge. they include 200 drug labels in XML formant separated into 101 labels for the training set and 99 ones for the test set. After clone this repository, download the training set from [here](https://bionlp.nlm.nih.gov/tac2017adversereactions/), unzip the file and put the xml files to the TAC/train_xml folder. After getting received the gold set by the organizers, put the xml files to the TAC/gold_xml folder.
+The datasets used in the experiments are provided from the TAC 2017 ADR challenge. they include 200 drug labels in XML format separated into 101 labels for the training set and 99 ones for the test set. After clone this repository, download the training set from [here](https://bionlp.nlm.nih.gov/tac2017adversereactions/), unzip the file and put the xml files to the TAC/train_xml folder. After getting received the gold set by the organizers, put the xml files to the TAC/gold_xml folder.
 
 ## Requirements
 
