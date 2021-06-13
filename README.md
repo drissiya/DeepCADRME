@@ -22,7 +22,7 @@ nltk.download('averaged_perceptron_tagger')
 
 1. To train the DeepCADRME system, you can run the main.py file:
 ```
-$ python main.py --model-type 'biobert' --step 'train'
+$ python main.py --model-type "biobert" --step "train"
 ```
 - model-type: specifies the model type used for initialization phase. It accepts two values: biobert (for BERT-based models) and bilstm (for baseline models).
 - step: accepts two values: train (for training step) and test (for test step).
@@ -36,13 +36,13 @@ checkpoint/{model-type}_model_level_3.bin
 
 2. To test the DeepCADRME system, just run the following command:
 ```
-$ python main.py --model-type 'biobert' --step 'test'
+$ python main.py --model-type "biobert" --step "test"
 ```
 After the program is finished, the guess xml files will be generated in the TAC/guess_xml folder.
 
 3. To evaluate DeepCADRME, run evaluate.py file which includes the official script for TAC 2017 ADR evaluation:
 ```
-$ python evaluate.py 'TAC/gold_xml' 'TAC/guess_xml'
+$ python evaluate.py "TAC/gold_xml" "TAC/guess_xml"
 ```
 
 ## Citation 
