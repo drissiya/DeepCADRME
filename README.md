@@ -61,5 +61,7 @@ $ python evaluate.py 'TAC/gold_xml' 'TAC/guess_xml'
 }
 ```
 
+## Acknowledgements
 
+Thanks to the TAC 2017 ADR challenge organizers who provided us the gold set used to evaluate this work.
 
