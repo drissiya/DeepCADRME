@@ -3,7 +3,8 @@ DeepCADRME is a deep neural model for extracting complex adverse drug reaction (
 
 ## Datasets
 
-The datasets used in the experiments are provided from the TAC 2017 ADR challenge. they include 200 drug labels in XML format separated into 101 labels for the training set and 99 ones for the test set. After clone this repository, download the training set from [here](https://bionlp.nlm.nih.gov/tac2017adversereactions/), unzip the file and put the xml files to the TAC/train_xml folder. After getting received the gold set by the organizers, put the xml files to the TAC/gold_xml folder.
+- The datasets used in the experiments are provided from the TAC 2017 ADR challenge. they include 200 drug labels in XML format separated into 101 labels for the training set and 99 ones for the test set. After clone this repository, download the training set from [here](https://bionlp.nlm.nih.gov/tac2017adversereactions/), unzip the file and put the xml files to the TAC/train_xml folder. After getting received the gold set by the organizers, put the xml files to the TAC/gold_xml folder.
+- The TAC/TR and TAC/TE folders contain the sentence boundary outcomes for training and test sets, respectively, obtained from [GENIA Sentence Splitter](http://www.nactem.ac.uk/y-matsu/geniass/).
 
 ## Requirements
 
@@ -31,7 +32,7 @@ $ python main.py --model-type "biobert" --step "train"
 - model-type: specifies the model type used for initialization phase. It accepts two values: biobert (for BERT-based models) and bilstm (for baseline models).
 - step: accepts two values: train (for training step) and test (for test step).
 
-After the program is finished, the model weights for each level will be saved in:
+The model weights for each level will be saved in:
 ```
 checkpoint/{model-type}_model_level_1.bin
 checkpoint/{model-type}_model_level_2.bin
@@ -67,5 +68,5 @@ $ python evaluate.py "TAC/gold_xml" "TAC/guess_xml"
 
 ## Acknowledgements
 
-Thanks to the TAC 2017 ADR challenge organizers who provided us the gold set used to evaluate this work.
+We are very grateful to the TAC 2017 ADR challenge organizers who provided us the gold set used to evaluate this work.
 
